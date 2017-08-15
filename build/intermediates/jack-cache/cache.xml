@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Dev_2\.android\build-cache\b253db0df360a29a68067e9e067467b2f10eb039\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Kostya\dev\workspace\android\TestTCPMoxy\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-8ccea0b41f9e2a5c56d2e0e96bfe967348da8f88.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dev_2\.gradle\caches\modules-2\files-2.1\com.arello-mobile\moxy-android\1.5.3\843a55fa04468b811099e7aab00e942bb0f2d759\moxy-android-1.5.3.jar"
+        revision="25.0.3"
+        sha1="843a55fa04468b811099e7aab00e942bb0f2d759">
+        <dex dex="D:\Kostya\dev\workspace\android\TestTCPMoxy\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\moxy-android-1.5.3-f030cd33fb438109120890dd5e4f5decc74aa758.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dev_2\.android\build-cache\36b4752d6d369626644e0417687460be5298dd93\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Kostya\dev\workspace\android\TestTCPMoxy\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-105569d7b3faabdfdb46a7866049f3b8ec6c435d.jar" />
+    </item>
+    <item
+        jar="D:\Kostya\dev\sdk\platforms\android-25\android.jar"
+        revision="25.0.3"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="D:\Kostya\dev\workspace\android\TestTCPMoxy\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-c2b79cbeef78dbb22a2e1d3952716062f2b2ec5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dev_2\.android\build-cache\9b241d771a336bdc5b256e8e428aab23a81db8ab\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Kostya\dev\workspace\android\TestTCPMoxy\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-43645f061a2f0526082f19e68810a49d1e449ed0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dev_2\.android\build-cache\316018148cd930800b6800a0a8df5910f30506d5\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Kostya\dev\workspace\android\TestTCPMoxy\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-89d21af1b994310a8c07142232d38fd347a6cc10.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dev_2\.gradle\caches\modules-2\files-2.1\com.arello-mobile\moxy-app-compat\1.5.3\4c2995f3dc839882828b63663928eb6adbfb067d\moxy-app-compat-1.5.3.jar"
+        revision="25.0.3"
+        sha1="4c2995f3dc839882828b63663928eb6adbfb067d">
+        <dex dex="D:\Kostya\dev\workspace\android\TestTCPMoxy\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\moxy-app-compat-1.5.3-edf8d1d85a2a9b4b395b1bcd58dbb1acfd4978df.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dev_2\.gradle\caches\modules-2\files-2.1\com.arello-mobile\moxy\1.5.3\7e459c3552b13eb4042836b5059329b303dd4c13\moxy-1.5.3.jar"
+        revision="25.0.3"
+        sha1="7e459c3552b13eb4042836b5059329b303dd4c13">
+        <dex dex="D:\Kostya\dev\workspace\android\TestTCPMoxy\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\moxy-1.5.3-c48f5a968573d1d9db89e54d561f3c1dffa7592e.jar" />
+    </item>
+    <item
+        jar="D:\Kostya\dev\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Kostya\dev\workspace\android\TestTCPMoxy\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.3.1-0b14c19c4bc8817f714f696e61dcc383dc207fc2.jar" />
+    </item>
+    <item
+        jar="D:\Kostya\dev\sdk\platforms\android-25\optional\org.apache.http.legacy.jar"
+        revision="25.0.3"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="D:\Kostya\dev\workspace\android\TestTCPMoxy\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-bd18db2b2c1c27896be2ed53994ae9c428b10c0b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dev_2\.android\build-cache\c61b3a6205cb4175adeef8b2e30316fbabe9209d\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Kostya\dev\workspace\android\TestTCPMoxy\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-43e9cb3947ad431d40b5e272d7b1653c7aae28e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dev_2\.android\build-cache\1e216d7022e1e30487c95c0243aab6f30b88b288\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Kostya\dev\workspace\android\TestTCPMoxy\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-32b9195331bac204b86da9a045ea078071c7879e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dev_2\.android\build-cache\27a5849e033882fcfb2950e8973dfa99d1737a34\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Kostya\dev\workspace\android\TestTCPMoxy\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-bb3ee95b057df9077aa147350a5672e09957fc5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dev_2\.android\build-cache\5bd921ba2afed49fb23fa4d53da6bd6aa833c5f7\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Kostya\dev\workspace\android\TestTCPMoxy\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d3a4beac23ff8b762abc1814a30ea6c0f8a44526.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dev_2\.android\build-cache\2447dc892494c3fa8e670860f5e1fa041c2f4120\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Kostya\dev\workspace\android\TestTCPMoxy\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-440240fe9abd02ab51e50a24f98624b9272f3972.jar" />
+    </item>
+
+</items>

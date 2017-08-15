@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestTCPMoxy</string>
+    <string name="btnText">click me</string>
+</resources>
