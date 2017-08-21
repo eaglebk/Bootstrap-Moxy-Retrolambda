@@ -13,9 +13,9 @@ public class MainPresenter extends MvpPresenter<MainView> implements IMainPresen
     TCPService tcpService;
 
     @Override
-    public void onClickedShowMessage() {
+    public void onClickedShowMessage(int color){
         getViewState().showMessage("Click");
         tcpService = App.getInstanceServiceTCP();
-        tcpService.sendCommand("HELLO");
+        tcpService.sendCommand(Integer.toString(color));
     }
 }
